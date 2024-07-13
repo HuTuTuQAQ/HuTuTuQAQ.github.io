@@ -70,9 +70,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -92,9 +92,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -114,17 +114,6 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/js/fps.js"/>
       <url>/js/fps.js</url>
@@ -136,11 +125,33 @@
     
     
     <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[    <div id="aplayer-nlNUZgNT" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="12296208528" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>  ]]></content>
       
     </entry>
     
@@ -169,11 +180,22 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/css/runtime/runtime.css"/>
+      <url>/css/runtime/runtime.css</url>
       
-        <content type="html"><![CDATA[    <div id="aplayer-qbYLoLCn" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="12296208528" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div>  ]]></content>
+        <content type="html"><![CDATA[div#runtime {    width: 180px;    margin: auto;    color: #fff;    padding-inline: 5px;    border-radius: 10px;    background-color: rgba(0, 0, 0, .7)}#workboard {    font-size: 12px}[data-theme=dark] div#runtime {    color: #28b4c8;    box-shadow: 0 0 5px rgba(28, 69, 218, .71);    animation: flashlight 1s linear infinite alternate}#ghbdages .github-badge img {    height: 20px}@-moz-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@-webkit-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@-o-keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}@keyframes flashlight {    from {        box-shadow: 0 0 5px #1478d2    }    to {        box-shadow: 0 0 2px #1478d2    }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/runtime/runtime.min.css"/>
+      <url>/css/runtime/runtime.min.css</url>
+      
+        <content type="html"><![CDATA[div#runtime{width:180px;margin:auto;color:#fff;padding-inline:5px;border-radius:10px;background-color:rgba(0,0,0,.7)}#workboard{font-size:12px}[data-theme=dark] div#runtime{color:#28b4c8;box-shadow:0 0 5px rgba(28,69,218,.71);animation:flashlight 1s linear infinite alternate}#ghbdages .github-badge img{height:20px}@-moz-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@-webkit-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@-o-keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}@keyframes flashlight{from{box-shadow:0 0 5px #1478d2}to{box-shadow:0 0 2px #1478d2}}]]></content>
       
     </entry>
     
