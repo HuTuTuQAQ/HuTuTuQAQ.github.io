@@ -26,6 +26,8 @@
     
     
     
+    <category term="机器人" scheme="http://ckpclj.cn/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
+    
     
     <category term="测试" scheme="http://ckpclj.cn/tags/%E6%B5%8B%E8%AF%95/"/>
     
@@ -42,6 +44,8 @@
     
     
     
+    
+    <category term="机器人" scheme="http://ckpclj.cn/categories/%E6%9C%BA%E5%99%A8%E4%BA%BA/"/>
     
     
     <category term="blog" scheme="http://ckpclj.cn/tags/blog/"/>
@@ -66,6 +70,8 @@
       
     
     
+    
+    <category term="游戏" scheme="http://ckpclj.cn/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
     <category term="日常" scheme="http://ckpclj.cn/tags/%E6%97%A5%E5%B8%B8/"/>
@@ -94,7 +100,7 @@
     
     
     
-    <category term="日常" scheme="http://ckpclj.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="生活" scheme="http://ckpclj.cn/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
     <category term="日常" scheme="http://ckpclj.cn/tags/%E6%97%A5%E5%B8%B8/"/>
