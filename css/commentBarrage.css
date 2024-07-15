@@ -1,16 +1,16 @@
-.comment-barrage {
+/* .comment-barrage {
     position: fixed;
     bottom: 0;
     right: 55px;
     padding: 0 0 30px 10px;
-    z-index: 100;
+    z-index: 199009;
     display: flex;
     flex-direction: column;
     justify-content: end;
     align-items: flex-end;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 100px) {
     .comment-barrage {
         display: none !important;
     }
@@ -50,8 +50,6 @@
     }
 }
 
-
-
 .comment-barrage-item .barrageHead {
     height: 30px;
     padding: 0;
@@ -90,4 +88,4 @@
     --lyx-white: white;
     --lyx-white-acrylic2: #fffa;
     --lyx-black-acrylic2: #000a;
-}
+} */
