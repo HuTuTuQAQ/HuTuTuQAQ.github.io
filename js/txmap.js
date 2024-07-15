@@ -9,6 +9,11 @@ $.ajax({
     dataType: 'jsonp',
     success: function (res) {
         ipLoacation = res;
+        console.log(res);
+    },
+    error: function (xhr, status, error) {
+        // 打印错误信息到控制台
+        console.error('请求失败：', status, error);
     }
 })
 function getDistance(e1, n1, e2, n2) {
@@ -217,9 +222,11 @@ function showWelcome() {
         document.getElementById("welcome-info").innerHTML =
             `<b><center>🎉 欢迎信息 🎉</center>&emsp;&emsp;欢迎来自 <span style="color:var(--theme-color)">${pos}</span> 的小伙伴，${timeChange}您现在距离站长约 <span style="color:var(--theme-color)">${dist}</span> 公里，当前的IP地址为： <span style="color:var(--theme-color)">${ip}</span>， ${posdesc}</b>`;
     } catch (err) {
-        // console.log("Pjax无法获取#welcome-info元素🙄🙄🙄")
+         console.log("Pjax无法获取#welcome-info元素🙄🙄🙄")
     }
+   
+    
 }
-window.onload = showWelcome;
+    window.onload = showWelcome;
 // 如果使用了pjax在加上下面这行代码
-document.addEventListener('pjax:complete', showWelcome);
+   document.addEventListener('pjax:complete', showWelcome);
