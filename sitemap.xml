@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ckpclj.cn/posts/5942.html</loc>
+    <loc>http://ckpclj.cn/posts/762f.html</loc>
+    
+    <lastmod>2024-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://ckpclj.cn/posts/63eb.html</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -20,16 +29,7 @@
   </url>
   
   <url>
-    <loc>http://ckpclj.cn/posts/762f.html</loc>
-    
-    <lastmod>2024-09-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ckpclj.cn/posts/63eb.html</loc>
+    <loc>http://ckpclj.cn/posts/5942.html</loc>
     
     <lastmod>2024-09-17</lastmod>
     
@@ -194,13 +194,6 @@
   </url>
   
   <url>
-    <loc>http://ckpclj.cn/tags/%E7%BE%8E%E9%A3%9F/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://ckpclj.cn/tags/%E5%90%83%E7%93%9C/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -235,17 +228,17 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://ckpclj.cn/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>http://ckpclj.cn/tags/%E7%BE%8E%E9%A3%9F/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>http://ckpclj.cn/categories/%E7%BE%8E%E9%A3%9F/</loc>
+    <loc>http://ckpclj.cn/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -260,6 +253,13 @@
   
   <url>
     <loc>http://ckpclj.cn/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2024-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://ckpclj.cn/categories/%E7%BE%8E%E9%A3%9F/</loc>
     <lastmod>2024-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
