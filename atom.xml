@@ -6,7 +6,7 @@
   <link href="http://ckpclj.cn/atom.xml" rel="self"/>
   
   <link href="http://ckpclj.cn/"/>
-  <updated>2024-12-19T16:34:56.435Z</updated>
+  <updated>2024-12-20T16:38:56.681Z</updated>
   <id>http://ckpclj.cn/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Twikoo评论邮件通知问题</title>
+    <link href="http://ckpclj.cn/posts/278.html"/>
+    <id>http://ckpclj.cn/posts/278.html</id>
+    <published>2024-12-20T14:47:54.000Z</published>
+    <updated>2024-12-20T16:38:56.681Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>博客采用twikoo评论系统，vercel部署很方便，使用体验很好。但是邮件通知问题一直困扰着我，测试功能正常，评论通知却收不到。折磨许久之后，在翻遍大家的博客，和官方文档后，终于找到了解决方法。</p><h1 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h1><p>在新使用vercel部署的时候，系统会自动设置vercel身份验证：Vercel Authentication，该功能会导致邮箱通知功能失败。我们只需要把他关掉，点save保存即可。<br><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tutu-blog.obs.cn-southwest-2.myhuaweicloud.com/bolg/post/teikoo.png" alt="关闭并保存。"/></div><span class="image-caption">关闭并保存。</span></div></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;博客采用twikoo评论系统，vercel部署很方便，使用体验很好。但是邮件通知问题一直困扰着我，测试功能正常，评论通知却收不到。折磨许久之</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://ckpclj.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>TeamSpeak搭建及使用教程</title>
     <link href="http://ckpclj.cn/posts/1a8.html"/>
     <id>http://ckpclj.cn/posts/1a8.html</id>
     <published>2024-12-19T13:49:46.000Z</published>
-    <updated>2024-12-19T16:34:56.435Z</updated>
+    <updated>2024-12-20T16:39:37.139Z</updated>
     
     <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在和基友开黑的时候，会需要一款语音软件来激情对喷。市面上的yy，kook的高音质都需要一定的费用，同时占用内存大。那我们今天就来介绍一款纯净流语音软件———TeamSpeak!（先介绍搭建服务端，如只需使用教程，直接点右边目录跳转即可。）</p><h2 id="搭建服务端"><a href="#搭建服务端" class="headerlink" title="搭建服务端"></a>搭建服务端</h2><h3 id="购买服务器"><a href="#购买服务器" class="headerlink" title="购买服务器"></a>购买服务器</h3><p>直接阿里云，腾讯云，华为云，大厂有保障，小厂优惠高，有些没有公网ip需要加端口号，自行选择。服务器系统选择安装win2012。</p>]]></content>
     
