@@ -6,7 +6,7 @@
   <link href="http://ckpclj.cn/atom.xml" rel="self"/>
   
   <link href="http://ckpclj.cn/"/>
-  <updated>2024-12-18T15:20:51.477Z</updated>
+  <updated>2024-12-19T16:34:56.435Z</updated>
   <id>http://ckpclj.cn/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TeamSpeak搭建及使用教程</title>
+    <link href="http://ckpclj.cn/posts/1a8.html"/>
+    <id>http://ckpclj.cn/posts/1a8.html</id>
+    <published>2024-12-19T13:49:46.000Z</published>
+    <updated>2024-12-19T16:34:56.435Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>在和基友开黑的时候，会需要一款语音软件来激情对喷。市面上的yy，kook的高音质都需要一定的费用，同时占用内存大。那我们今天就来介绍一款纯净流语音软件———TeamSpeak!（先介绍搭建服务端，如只需使用教程，直接点右边目录跳转即可。）</p><h2 id="搭建服务端"><a href="#搭建服务端" class="headerlink" title="搭建服务端"></a>搭建服务端</h2><h3 id="购买服务器"><a href="#购买服务器" class="headerlink" title="购买服务器"></a>购买服务器</h3><p>直接阿里云，腾讯云，华为云，大厂有保障，小厂优惠高，有些没有公网ip需要加端口号，自行选择。服务器系统选择安装win2012。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;在和基友开黑的时候，会需要一款语音软件来激情对喷。市面上的yy，kook的高音质都需要一定的费用，同时占用内存大。那我们今天就来介绍一款纯净</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://ckpclj.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>自言</title>
