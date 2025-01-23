@@ -6,7 +6,7 @@
   <link href="http://ckpclj.cn/atom.xml" rel="self"/>
   
   <link href="http://ckpclj.cn/"/>
-  <updated>2024-12-21T16:55:48.519Z</updated>
+  <updated>2025-01-23T15:52:58.959Z</updated>
   <id>http://ckpclj.cn/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实用的电脑操作软件整合</title>
+    <link href="http://ckpclj.cn/posts/b55e.html"/>
+    <id>http://ckpclj.cn/posts/b55e.html</id>
+    <published>2025-01-23T15:15:18.000Z</published>
+    <updated>2025-01-23T15:52:58.959Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="软件推荐"><a href="#软件推荐" class="headerlink" title="软件推荐"></a>软件推荐</h2><h3 id="Everything"><a href="#Everything" class="headerlink" title="Everything"></a>Everything</h3><p>一款搜索速度快且小巧的文件搜索软件。在你翻遍电脑硬盘还找不到想要的文件时，就应该想到它！</p><h3 id="LocalSend"><a href="#LocalSend" class="headerlink" title="LocalSend"></a>LocalSend</h3><p>一款文件多端互传软件，只需要在同一局域网下，便可快速互传文件，简单好用无广告！</p><h3 id="PotPlayer"><a href="#PotPlayer" class="headerlink" title="PotPlayer"></a>PotPlayer</h3><p>一款功能齐全流畅好用无广告的播放音视频软件！用过都说好~</p><h3 id="TeamSpeak3"><a href="#TeamSpeak3" class="headerlink" title="TeamSpeak3"></a>TeamSpeak3</h3><p>一款内存小、音质好、界面简洁、操作简单的语音沟通软件！欢迎来我的频道：0825、翻斗花园、dwstc。</p><h3 id="Mem-Reduct"><a href="#Mem-Reduct" class="headerlink" title="Mem Reduct"></a>Mem Reduct</h3><p>一款清理电脑使用内存的实用性软件，傻瓜式操作，点击见效。非常好用~</p><h3 id="Core-Temp"><a href="#Core-Temp" class="headerlink" title="Core Temp"></a>Core Temp</h3><p>一款查看电脑cpu温度的软件，只能查看温度，并没有散热功效~</p><h3 id="Via"><a href="#Via" class="headerlink" title="Via"></a>Via</h3><p>一款界面超简便，内存超小的浏览器，干净到你不会以为它是个浏览器，非常好用！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;软件推荐&quot;&gt;&lt;a href=&quot;#软件推荐&quot; class=&quot;headerlink&quot; title=&quot;软件推荐&quot;&gt;&lt;/a&gt;软件推荐&lt;/h2&gt;&lt;h3 id=&quot;Everything&quot;&gt;&lt;a href=&quot;#Everything&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    <category term="教程" scheme="http://ckpclj.cn/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="软件" scheme="http://ckpclj.cn/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>Twikoo评论邮件通知问题</title>
