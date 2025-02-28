@@ -6,7 +6,7 @@
   <link href="https://blog.ckpclj.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.ckpclj.cn/"/>
-  <updated>2025-02-28T15:42:55.836Z</updated>
+  <updated>2025-02-28T15:47:02.795Z</updated>
   <id>https://blog.ckpclj.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Unity开发日记.md</title>
+    <title>Unity开发日记</title>
     <link href="https://blog.ckpclj.cn/posts/c50.html"/>
     <id>https://blog.ckpclj.cn/posts/c50.html</id>
     <published>2025-02-28T15:42:55.000Z</published>
-    <updated>2025-02-28T15:42:55.836Z</updated>
+    <updated>2025-02-28T15:47:02.795Z</updated>
     
     
     
@@ -55,7 +55,7 @@
     <link href="https://blog.ckpclj.cn/posts/278.html"/>
     <id>https://blog.ckpclj.cn/posts/278.html</id>
     <published>2024-12-20T14:47:54.000Z</published>
-    <updated>2024-12-21T16:55:48.519Z</updated>
+    <updated>2025-02-28T15:59:56.586Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>博客采用twikoo评论系统，vercel部署很方便，使用体验很好。但是邮件通知问题一直困扰着我，测试功能正常，评论通知却收不到。折磨许久之后，在翻遍大家的博客，和官方文档后，终于找到了解决方法。</p><h1 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h1><p>在新使用vercel部署的时候，系统会自动设置vercel身份验证：Vercel Authentication，该功能会导致邮箱通知功能失败。我们只需要把他关掉，点save保存即可。<br><div class="img-wrap"><div class="img-bg"><img class="img" src="https://tutu-blog.obs.cn-southwest-2.myhuaweicloud.com/bolg/post/teikoo.png" alt="关闭并保存。"/></div><span class="image-caption">关闭并保存。</span></div></p>]]></content>
     
