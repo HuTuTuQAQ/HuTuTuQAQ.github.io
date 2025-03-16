@@ -250,6 +250,13 @@
   </url>
   
   <url>
+    <loc>https://blog.ckpclj.cn/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2025-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ckpclj.cn/tags/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2025-03-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -265,27 +272,6 @@
   
   <url>
     <loc>https://blog.ckpclj.cn/tags/%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2025-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ckpclj.cn/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2025-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ckpclj.cn/tags/%E5%BC%80%E8%BD%A6/</loc>
-    <lastmod>2025-03-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ckpclj.cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
     <lastmod>2025-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -313,6 +299,20 @@
   </url>
   
   <url>
+    <loc>https://blog.ckpclj.cn/tags/%E5%BC%80%E8%BD%A6/</loc>
+    <lastmod>2025-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ckpclj.cn/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
+    <lastmod>2025-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ckpclj.cn/tags/%E6%97%A0%E4%B8%BB%E4%B9%8B%E5%9C%B0/</loc>
     <lastmod>2025-03-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -334,7 +334,7 @@
   </url>
   
   <url>
-    <loc>https://blog.ckpclj.cn/tags/%E7%8C%AB%E7%8C%AB-%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://blog.ckpclj.cn/tags/%E7%8C%AB%E7%8C%AB/</loc>
     <lastmod>2025-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
